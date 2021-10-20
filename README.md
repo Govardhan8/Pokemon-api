@@ -26,3 +26,7 @@ The app is mainly constructed using css grids.
 JS part(script.js):
 The javascript part of the app is done with async,fetch and await for getting the data from the api.
 The rendering part to the dom is done by using innerHTML and template literals.
+
+
+Deployed at:
+https://mystifying-kepler-081d8b.netlify.app/
