@@ -27,9 +27,15 @@ body {
 	min-height: 100vh;
 	max-width: 100vw;
 	background: var(--main-darkest-color);
+	position: relative;
 }
 
 /* Header styling */
+header {
+	position: sticky;
+	top: 0;
+	z-index: 100;
+}
 header > h1 {
 	padding: 1.5rem 0;
 	width: 100%;
