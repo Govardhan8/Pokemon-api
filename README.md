@@ -1,16 +1,23 @@
 URL to get initials Pokémon details:
+
 https://pokeapi.co/api/v2/pokemon?limit=50
 
 URL to get abilities, name, moves and weight:
+
 https://pokeapi.co/api/v2/pokemon/2/
 
 URL to get image of Pokémon:
+
 https://pokeapi.co/api/v2/pokemon-form/1/
 
 Google Fonts Used:
+
 Name-font: 'Rampart One'
+
 Number-font: 'Abril Fatface'
+
 Header-font: 'Domine'
+
 Details-font: 'Fjalla One'
 
 About the project:
