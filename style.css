@@ -106,6 +106,7 @@ header > h1 {
 .name {
 	position: relative;
 	top: -0.75rem;
+	margin: 0;
 	text-transform: capitalize;
 	font-family: var(--name-font);
 	text-align: center;
