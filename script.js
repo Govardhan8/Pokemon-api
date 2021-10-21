@@ -22,7 +22,7 @@ const fetchDetails = async (id) => {
 //Making both image and details as a single pokemon object and making an array of pokemons
 const renderPokemon = async () => {
 	const pokemons = []
-	for (let i = 1; i <= 60; i++) {
+	for (let i = 1; i <= 50; i++) {
 		//Getting the pokemon data
 		const pokemon = await fetchDetails(i)
 		pokemons.push(pokemon)
