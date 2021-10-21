@@ -153,7 +153,9 @@ p {
 @media (min-width: 400px) {
 	.cardContainer {
 		grid-template-columns: 1fr 1fr;
-		border-radius: 12.5%;
+	}
+	.weight {
+		margin: 0;
 	}
 	.details {
 		text-align: left;
